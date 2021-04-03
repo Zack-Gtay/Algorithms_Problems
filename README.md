@@ -1,5 +1,7 @@
 # BinarySearch_PROBLEM
 The Problem asks to find the first and the last index of a Target using binary Search
+
+
 Example 1:
 Input: nums = [5, 7, 7, 8, 8, 10], target = 8
 
